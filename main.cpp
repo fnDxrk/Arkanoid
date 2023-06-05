@@ -10,7 +10,7 @@ int boardSpeed = 15;
 int ballSpeedX = 5;
 int ballSpeedY = 5;
 
-//
+//Проверка изначальной позиции
 int checkFlag = 0;
 
 //Путь иконок
